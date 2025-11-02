@@ -1,9 +1,9 @@
-#📊 #E-Commerce Sales Dashboard — Data Analytics Project
-#🔗 Internship Project — Unified Mentor (Data Analyst Program)
+# 📊 E-Commerce Sales Dashboard — Data Analytics Project
+# 🔗 Internship Project — Unified Mentor (Data Analyst Program)
 
 This project showcases a complete end-to-end Data Analytics workflow, including data cleaning, data exploration, SQL querying, and dashboard creation using Power BI to analyze E-commerce sales data.
 
-#📁 Project Overview
+# 📁 Project Overview
 
 The goal of this project was to analyze E-commerce sales performance and extract business insights such as:
 
@@ -15,13 +15,13 @@ The goal of this project was to analyze E-commerce sales performance and extract
 
 This interactive dashboard enables users to explore data effectively and make data-driven decisions.
 
-#🛠️ Tools & Technologies Used
+# 🛠️ Tools & Technologies Used
 Tool / Skill	Purpose
 Excel	Data cleaning & preprocessing
 SQL	Data extraction & transformation
 Power BI	Data modeling & dashboard development
 DAX	Measures & calculations (SUMX, SUM, COUNTROWS, AVERAGE, etc.)
-#🎯 Key Insights
+# 🎯 Key Insights
 
 📌 Average Units Sold: 23.49
 📌 Total Units Sold: 47K+
@@ -35,9 +35,9 @@ Portable Round Folding…
 
 Stylish Shoe Rack Metal…
 
-#📌 Sales peak periods: Seasonal rise toward December
+# 📌 Sales peak periods: Seasonal rise toward December
 
-#🧠 Learnings & Skills Gained
+# 🧠 Learnings & Skills Gained
 
 ✔ Data Cleaning & Preparation
 ✔ Data Modeling in Power BI
@@ -46,15 +46,15 @@ Stylish Shoe Rack Metal…
 ✔ Interactive dashboard design
 ✔ Real-world business analytics understanding
 
-#🗂 Folder Structure
-#📁 E-Commerce Power BI Dashboard
+# 🗂 Folder Structure
+# 📁 E-Commerce Power BI Dashboard
 |— 📄 README.md
 |— 📊 Dashboard.pbix
 |— 📑 SQL Queries.sql
 |— 📂 Dataset.xlsx / CSV
 |— 📸 Dashboard Screenshot.png
 
-#🚀 Future Improvements
+# 🚀 Future Improvements
 
 Add predictive analysis using Machine Learning
 
@@ -64,15 +64,15 @@ Automate refresh using cloud SQL
 
 Build mobile-optimized version
 
-#🤝 Acknowledgment
+# 🤝 Acknowledgment
 
 Special thanks to Unified Mentor for providing guidance and a real-world learning experience in my Data Analytics journey.
 
-#⭐ If you like this project…
+# ⭐ If you like this project…
 
 Consider giving it a star ⭐ on GitHub to support my learning journey!
 
-#👤 Author
+# 👤 Author
 
 Tanisha — Data Analyst Intern
 📎 LinkedIn: (www.linkedin.com/in/tanisha-dhaka)
