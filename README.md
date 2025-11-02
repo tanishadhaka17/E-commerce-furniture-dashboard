@@ -1,4 +1,4 @@
-# 📊 E-Commerce Sales Dashboard — Data Analytics Project
+# 📊 E-Commerce Furniture Sales Dashboard — Data Analytics Project
 ## 🔗 Internship Project — Unified Mentor (Data Analyst Program)
 
 This project showcases a complete end-to-end Data Analytics workflow, including data cleaning, data exploration, SQL querying, and dashboard creation using Power BI to analyze E-commerce sales data.
